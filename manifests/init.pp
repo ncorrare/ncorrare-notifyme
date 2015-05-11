@@ -36,6 +36,9 @@
 # Copyright 2015 Your name here, unless otherwise noted.
 #
 class notifyme {
+  notify { 'version':
+    message => 'Module version 0.0.1',
+  }
 
 
 }
