@@ -37,7 +37,7 @@
 #
 class notifyme {
   notify { 'version':
-    message => 'Module version 0.0.2',
+    message => 'Module version 0.0.3',
   }
 
 

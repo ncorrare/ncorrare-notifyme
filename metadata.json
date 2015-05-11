@@ -1,6 +1,6 @@
 {
   "name": "ncorrare-notifyme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "ncorrare",
   "summary": "A module that notifies its own version",
   "license": "Apache 2.0",
